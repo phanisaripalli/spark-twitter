@@ -15,3 +15,8 @@ ________________________________________________________________________________
 $SPARK_HOME/bin/spark-submit sparkjob.py
 
 #Some charts based on data colelcted on usopen (did not collect for a lot of time) in the repo
+
+![Nr. hashtags and total tweets](https://raw.githubusercontent.com/phanisaripalli/spark-twitter/master/charts/nr_hashtags_and_total_tweets_distribution.png)
+
+
+![Hashtags occurrences - network](https://raw.githubusercontent.com/phanisaripalli/spark-twitter/master/charts/occurences_hashtags_relationship.png)
