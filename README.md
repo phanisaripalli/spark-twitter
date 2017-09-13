@@ -14,7 +14,17 @@ ________________________________________________________________________________
 #To run
 $SPARK_HOME/bin/spark-submit sparkjob.py
 
-#Some charts based on data colelcted on usopen (did not collect for a lot of time) in the repo
+- Some charts based on data collected on irma (not for a long time though)
+
+![Hashtags distribution](https://github.com/phanisaripalli/spark-twitter/blob/master/img/irma/hashtags_distribution.png)
+
+![Hashtags relation](https://github.com/phanisaripalli/spark-twitter/blob/master/img/irma/relation_hashtags.png)
+
+![Overall relation](https://github.com/phanisaripalli/spark-twitter/blob/master/img/irma/relation_overall.png)
+
+__________________________________________________________________________________________________________________
+
+- Some charts based on data collected on usopen (did not collect for a lot of time) in the repo
 
 ![Nr. hashtags and total tweets](https://raw.githubusercontent.com/phanisaripalli/spark-twitter/master/charts/nr_hashtags_and_total_tweets_distribution.png)
 
